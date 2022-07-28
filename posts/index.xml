@@ -1,11 +1,71 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on P-Salik</title>
-    <link>https://p-salik.github.io/posts/</link>
-    <description>Recent content in Posts on P-Salik</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://p-salik.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+    <channel>
+        <title>Posts on P-Salik</title>
+        <link>https://p-salik.github.io/posts/</link>
+        <description>Recent content in Posts on P-Salik</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+        <lastBuildDate>Thu, 28 Jul 2022 13:59:08 +0000</lastBuildDate>
+        <atom:link href="https://p-salik.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>CipherOS 3.8 STRIKE 20220619</title>
+            <link>https://p-salik.github.io/posts/cipheros-3.8-strike-20220619/</link>
+            <pubDate>Thu, 28 Jul 2022 13:59:08 +0000</pubDate>
+            
+            <guid>https://p-salik.github.io/posts/cipheros-3.8-strike-20220619/</guid>
+            <description>ROM Version: 3.8 Device: Realme C2 (RMX1941) Maintainer: P-Salik Build Status: Official
+* Your warranty is now void. * We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. * You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.
+This is a user-friendly thread, all your suggestions are important to us and will be taken into consideration.</description>
+            <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/CipherOS/Documentation/master/art/cipher_twelve-L.jpg" alt="alt text" title="cipher banner"></p>
+<p><strong>ROM Version:</strong> 3.8 <br>
+<strong>Device:</strong> Realme C2 (RMX1941) <br>
+<strong>Maintainer:</strong> P-Salik <br>
+<strong>Build Status:</strong> Official</p>
+<p><code>* Your warranty is now void.</code> <br>
+<code>* We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels.</code> <br>
+<code>* You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.</code></p>
+<p><strong>This is a user-friendly thread, all your suggestions are important to us and will be taken into consideration..</strong></p>
+<p><strong>CipherOS is an Android Custom OS, based on AOSP, striving to provide its users a clean, bloat free &amp; sturdy experience with minimal customisations&hellip;</strong></p>
+<hr>
+<p><strong>CLEAN FLASH/First Time Installation :</strong></p>
+<hr>
+<ol>
+<li>Download the latest build (Only vanilla build available)</li>
+<li>First Make sure recovery is installed.</li>
+<li>Reboot to recovery</li>
+<li>Make nandroid backup (Not Necessary,  but just in case if you lost somewhere)</li>
+<li>Perform Factory Reset/Format</li>
+<li>Wipe system and vendor</li>
+<li>Flash latest build</li>
+<li>Wipe para ((o avoid recovery loop)</li>
+<li>Reboot to System</li>
+</ol>
+<hr>
+<p><strong>DIRTY FLASH :</strong></p>
+<hr>
+<ol>
+<li>Download the latest build</li>
+<li>Reboot to recovery</li>
+<li>Flash the latest build</li>
+<li>Wipe Cache</li>
+<li>Reboot</li>
+</ol>
+<p><code>Note: GApps only has to be flashed once whereas Magisk/Su is to be flashed every time you Dirty Flash the OTA Update.</code></p>
+<p><strong>Download:</strong> <a href="https://sourceforge.net/projects/cipheros/files/Cipher-3.x/STRIKE/RMX1941/CipherOS-3.6-STRIKE-cipher_RMX1941-20220619-1143-OFFICIAL-VANILLA.zip/download">Vanilla</a> <br>
+<strong>Complete Changelogs:</strong> <a href="https://github.com/CipherOS/OTA/blob/twelve-L/changelog/changelog_RMX1941.txt">Here!</a> <br>
+<strong>Contributors:</strong> P-Salik <br>
+<strong>Source Code:</strong> <a href="https://github.com/CipherOS">https://github.com/CipherOS</a> <br>
+<strong>ROM OS Version:</strong> 12.1 Android Sv2</p>
+<hr>
+<p><strong>Version Information :</strong></p>
+<hr>
+<p><strong>Status:</strong> STABLE <br>
+<strong>Current Stable Version:</strong> v3.8 <br>
+<strong>Stable Release Date:</strong> 21-06-2022</p>
+]]></content>
+        </item>
+        
+    </channel>
 </rss>

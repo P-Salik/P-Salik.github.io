@@ -2,21 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://p-salik.github.io/downloads/dotos/</loc>
-    <lastmod>2021-11-25T03:44:30+00:00</lastmod>
-  </url><url>
-    <loc>https://p-salik.github.io/downloads/</loc>
-    <lastmod>2021-11-25T03:44:30+00:00</lastmod>
+    <loc>https://p-salik.github.io/posts/cipheros-3.8-strike-20220619/</loc>
+    <lastmod>2022-07-28T13:59:08+00:00</lastmod>
   </url><url>
     <loc>https://p-salik.github.io/</loc>
-    <lastmod>2021-11-25T03:44:30+00:00</lastmod>
-  </url><url>
-    <loc>https://p-salik.github.io/about/</loc>
+    <lastmod>2022-07-28T13:59:08+00:00</lastmod>
   </url><url>
     <loc>https://p-salik.github.io/posts/</loc>
-  </url><url>
-    <loc>https://p-salik.github.io/series/</loc>
+    <lastmod>2022-07-28T13:59:08+00:00</lastmod>
   </url><url>
     <loc>https://p-salik.github.io/tags/</loc>
+    <lastmod>2022-07-28T13:59:08+00:00</lastmod>
+  </url><url>
+    <loc>https://p-salik.github.io/tags/untagged/</loc>
+    <lastmod>2022-07-28T13:59:08+00:00</lastmod>
+  </url><url>
+    <loc>https://p-salik.github.io/about/</loc>
+    <lastmod>2022-07-28T12:38:53+00:00</lastmod>
+  </url><url>
+    <loc>https://p-salik.github.io/categories/</loc>
+  </url><url>
+    <loc>https://p-salik.github.io/series/</loc>
   </url>
 </urlset>
