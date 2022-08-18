@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>P-Salik</title>
-    <link>https://p-salik.github.io/</link>
-    <description>Recent content on P-Salik</description>
+    <title>Posts on P-Salik</title>
+    <link>https://p-salik.github.io/tags/posts/</link>
+    <description>Recent content in Posts on P-Salik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 28 Jul 2022 13:59:08 +0000</lastBuildDate><atom:link href="https://p-salik.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Jul 2022 13:59:08 +0000</lastBuildDate><atom:link href="https://p-salik.github.io/tags/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CipherOS 3.8 STRIKE 20220619</title>
       <link>https://p-salik.github.io/posts/cipheros-3.8-strike-20220619/</link>
@@ -16,18 +16,6 @@
       <guid>https://p-salik.github.io/posts/cipheros-3.8-strike-20220619/</guid>
       <description>CipherOS is an Android Custom OS, based on AOSP, striving to provide its users a clean, bloat free &amp;amp; sturdy experience with minimal customisations&amp;hellip; ROM Version: 3.8 Device: Realme C2 (RMX1941) Maintainer: P-Salik Build Status: Official
 Your warranty is now void. We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://p-salik.github.io/about/</link>
-      <pubDate>Thu, 28 Jul 2022 12:38:53 +0000</pubDate>
-      
-      <guid>https://p-salik.github.io/about/</guid>
-      <description>About Me Hey there! I am Salik, an 19 y.o, mostly known as P-Salik on social media platforms.
-I&amp;rsquo;m an android development (amateur), inspired from Sarthak Roy , Sakthivel Nadar, TechyMinati (Aryan Sinha) and Debayan Kar. I&amp;rsquo;ve worked for Realme C2 and I love android development. I mostly use github for my projects.
-Some of my works on github include:
-https://github.com/P-Salik/android_device_realme_RMX1941 https://github.com/P-Salik/android_vendor_realme_RMX1941 https://github.com/P-Salik/kernel_realme_RMX1941 I&amp;rsquo;m mostly active on Telegram. You can also reach me through Mail.</description>
     </item>
     
   </channel>

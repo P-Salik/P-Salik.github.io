@@ -15,21 +15,25 @@
             <pubDate>Thu, 28 Jul 2022 13:59:08 +0000</pubDate>
             
             <guid>https://p-salik.github.io/posts/cipheros-3.8-strike-20220619/</guid>
-            <description>ROM Version: 3.8 Device: Realme C2 (RMX1941) Maintainer: P-Salik Build Status: Official
-* Your warranty is now void. * We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. * You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.
-This is a user-friendly thread, all your suggestions are important to us and will be taken into consideration.</description>
-            <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/CipherOS/Documentation/master/art/cipher_twelve-L.jpg" alt="alt text" title="cipher banner"></p>
+            <description>CipherOS is an Android Custom OS, based on AOSP, striving to provide its users a clean, bloat free &amp;amp; sturdy experience with minimal customisations&amp;hellip; ROM Version: 3.8 Device: Realme C2 (RMX1941) Maintainer: P-Salik Build Status: Official
+Your warranty is now void. We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.</description>
+            <content type="html"><![CDATA[<hr>
+<h4 id="cipheros-is-an-android-custom-os-based-on-aosp-striving-to-provide-its-users-a-clean-bloat-free--sturdy-experience-with-minimal-customisations">CipherOS is an Android Custom OS, based on AOSP, striving to provide its users a clean, bloat free &amp; sturdy experience with minimal customisations&hellip;</h4>
+<hr>
 <p><strong>ROM Version:</strong> 3.8 <br>
 <strong>Device:</strong> Realme C2 (RMX1941) <br>
 <strong>Maintainer:</strong> P-Salik <br>
 <strong>Build Status:</strong> Official</p>
-<p><code>* Your warranty is now void.</code> <br>
-<code>* We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels.</code> <br>
-<code>* You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.</code></p>
+<blockquote>
+<ul>
+<li>Your warranty is now void.</li>
+<li>We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels.</li>
+<li>You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.</li>
+</ul>
+</blockquote>
 <p><strong>This is a user-friendly thread, all your suggestions are important to us and will be taken into consideration..</strong></p>
-<p><strong>CipherOS is an Android Custom OS, based on AOSP, striving to provide its users a clean, bloat free &amp; sturdy experience with minimal customisations&hellip;</strong></p>
 <hr>
-<p><strong>CLEAN FLASH/First Time Installation :</strong></p>
+<h3 id="clean-flashfirst-time-installation-"><strong>CLEAN FLASH/First Time Installation :</strong></h3>
 <hr>
 <ol>
 <li>Download the latest build (Only vanilla build available)</li>
@@ -43,7 +47,7 @@ This is a user-friendly thread, all your suggestions are important to us and wil
 <li>Reboot to System</li>
 </ol>
 <hr>
-<p><strong>DIRTY FLASH :</strong></p>
+<h3 id="dirty-flash-"><strong>DIRTY FLASH :</strong></h3>
 <hr>
 <ol>
 <li>Download the latest build</li>
@@ -52,7 +56,9 @@ This is a user-friendly thread, all your suggestions are important to us and wil
 <li>Wipe Cache</li>
 <li>Reboot</li>
 </ol>
-<p><code>Note: GApps only has to be flashed once whereas Magisk/Su is to be flashed every time you Dirty Flash the OTA Update.</code></p>
+<blockquote>
+<p>*Note: GApps only has to be flashed once whereas Magisk/Su is to be flashed every time you Dirty Flash the OTA Update.</p>
+</blockquote>
 <p><strong>Download:</strong> <a href="https://sourceforge.net/projects/cipheros/files/Cipher-3.x/STRIKE/RMX1941/CipherOS-3.6-STRIKE-cipher_RMX1941-20220619-1143-OFFICIAL-VANILLA.zip/download">Vanilla</a> <br>
 <strong>Complete Changelogs:</strong> <a href="https://github.com/CipherOS/OTA/blob/twelve-L/changelog/changelog_RMX1941.txt">Here!</a> <br>
 <strong>Contributors:</strong> P-Salik <br>
